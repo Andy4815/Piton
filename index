@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Piton Cookbook</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	 <link rel = "icon" href="snek.png" type = "image/x-icon">
+</head>
+<body>
+	<div class="bg"></div>
+	<div class="scoci">
+		<div class="btn">
+			<a href="start.html"><button type="button"><img src="piton2.png" alt="button"></a></button>
+			
+		</div>
+		
+	</div>
+</body>
+</html>
