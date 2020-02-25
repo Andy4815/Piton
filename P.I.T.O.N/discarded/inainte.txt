@@ -1,0 +1,132 @@
+-------------------------------------------(HTML)---------------------------------------------------
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Piton Cookbook</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+<body>
+   <div class="cutie mare">
+   	    <div class="cutie-1">
+   	    	<h1>Piton Cookbook</h1>
+   	     </div>
+
+   	     <div class="Categori">
+	   	<table>
+	   		<div class="btn">
+	   	    <tr><button type="button">Cuprins</button></tr>
+	   		<tr><a href="#">Setari</a></tr>
+	   		<tr><a href="#">Ceva</a></tr>
+	   	    </div>
+	   </table>
+	   </div>
+
+   	 <br>
+   
+     <br>   
+   
+   <p>T-34 a Aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbfost un tanc mediu fabricat în Uniunea Sovieticã din 1940 pânã în 1958. Prima datã a fost produs la uzina KhPZ din Harkov, R. S. S. Ucraineanã. A fost principalul tanc de luptã al Armatei Ro?ii în timpul celui de-al Doilea Rãzboi Mondial. A rãmas în istorie ca fiind al doilea tanc ca produc?ie din istorie, dupã succesorul sãu din seria T-54/55. A fost exportat masiv, aflându-se încã în inccccccccccccccccccccccccccccccccccccccccccccccccccccccccventarul unor armate din lume.
+
+T-34 a fost dezvoltat din seria de tancuri rapide BT ?i trebuia sã le înlocuiascã pe acestea ?i pe tancul u?or T-26 pe câmpul de luptã.[1] Când a fost introdus prima datã în dotarea armatei, era cel mai echilibrat tanc din punct de vedere al armamentului, mobilitã?ii, blindajului ?i fiabilitã?ii. Cu toate acestea, eficacitatea sa în primele lupte era redusã din cauza numãrului relativ mic de tancuri disponibile, ergonomiei, lipsei acute de echipament radio ?i tacticii gre?ite. Turela fusese proiectatã pentru 2 persoane, iar comandantul tancului se ocupa ?i de armament.
+
+Designul ?i construc?ia tancului au suferit numeroase modificãri în timpul rãzboiului pentru a permite cre?terea eficacitã?ii ?i a produc?iei. La începutul anului 1944, modelul T-34/85 a fost introdus în dotarea trupelor de pe front. Având o turelã îmbunãtã?itã (pentru 3 persoane) ?i un tun de calibrul 85 mm, T-34 a înlocuit multe dintre tancurile u?oare ?i grele, devenind principalul tanc de luptã al Armatei Ro?ii. Succesorul sãu este tancul T-44 care a fost produs aproape pânã la sfâr?itul celui de-al Doilea Rãzboi Mondial, fiind urmat de seria T-54/55, care a fost fabricat pânã în 1981.În 1939, majoritatea blindatelor din dotarea Armatei Ro?ii erau tancurile u?oare T-26 ?i tancurile rapide din seria BT. T-26 era un tanc lent, menit sã ?inã pasul cu infanteria ?i sã asigure sprijin acesteia. Tancurile BT erau tancuri u?oare ?i rapide, de cavalerie, menite sã atace ?i sã distrugã alte tancuri. Cele douã tancuri erau foarte u?or blindate, fiind gândite sã reziste la focul mitralierelor. Prin urmare, erau foarte vulnerabile la atacurile pu?tilor antitanc ?i tunurilor anticar de calibrul 37 mm. Ambele tancuri erau echipate cu motoare pe benzinã care luau foc u?or[2] ?i erau bazate pe proiecte din ?ãri strãine: T-26 avea la bazã carul de luptã britanic Vickers de 6 tone, iar seria BT se baza pe schi?ele inginerului american Walter Christie.
+
+În 1937, Armata Ro?ie l-a numit pe inginerul Mihail Ko?kin la conducerea unei echipe care trebuia sã vinã cu planuri noi pentru succesorul tancului BT. Tancul urma sã fie produs la uzinele Kharkiv Komintern Locomotive Plant (KhPZ) din Harkov, Ucraina. Primul prototip, denumit A-20, avea un blindaj gros de 20 mm, era echipat cu un tun anticar de calibrul 45 mm ?i un motor V-2 diesel. Prototipul era gândit sã poatã rula la nevoie direct pe gale?i, fãrã ?enile.[3] Acest detaliu a mãrit viteza maximã la 85 km/h, dar nu aducea nici un avantaj real în luptã. A-20 avea blindajul înclinat, fiindcã testele anterioare dovediserã cã un blindaj înclinat avea mai multe ?anse sã devieze un proiectil decât blindajul vertical.
+
+Ko?kin l-a convins pe Iosif Stalin sã-l lase sã construiascã un alt prototip, un „tanc universal”.[4] Acesta urma sã fie mult mai bine protejat ?i înarmat decât prototipul anterior. Denumit A-32, noul proiect avea un blindaj frontal cu o grosime de 32 mm, un tun de calibrul 76,2 mm ?i era echipat cu acela?i model de motor diesel, mult mai fiabil decât cele pe benzinã. Ambele prototipuri au fost testate în poligonul de la Kubinka, unde modelul A-32 s-a dovedit a fi la fel de mobil ca predecesorul sãu A-20. O versiune ?i mai grea a prototipului A-32 a fost aprobatã: blindajul era mãrit la 45 de mm, iar ?enilele urmau sã fie mai late. În urma acestor modificãri, tancul a intrat pe linia de produc?ie sub numele de T-34. Ko?kin a ales numeralul 34 pentru cã în 1934 a început sã punã la punct planurile pentru noul tanc universal. Tot atunci, armata sovieticã a decretat mãrirea numãrului de tancuri ?i l-a numit pe Sergo Ordzhonikidze responsabil de produc?ia tancurilor.[5]
+
+În ianuarie 1940, Ko?kin a terminat 2 prototipuri. În lunile aprilie ?i mai, acestea au </p>
+</div>
+</body>
+</html>
+
+
+
+
+
+----------------------------------------------------(CSS)------------------------------------------------------
+
+
+@font-face{
+	font-family: m_Font;
+	src: url("gop.ttf");
+}
+
+@font-face{
+	font-family: S_Font;
+	src: url("Snowstorm.otf");
+}
+
+
+html, body{
+	margin:0px;
+	padding: 0px;
+	width:100%;
+}
+
+body{
+	height: 100vh;
+	background-color: #F8E19F;
+}
+
+.cutie-1 h1{
+	font-family: m_Font;
+	color: #BEB11E;
+    text-align: center;
+    border:5px; 
+
+    padding: 40px;
+
+    margin:20px 0;
+
+    background-color:#F3EEB4; 
+}
+ 
+a{
+	font-size: 24px;
+	padding-right:60px;
+	padding-left:20px;
+
+}
+
+a{
+	text-decoration:none;
+	color:#403F37;       /*culoarea linkului*/
+}
+
+a:hover{
+	color: green;
+}
+.Categori {
+
+    background-color: #C9C16B; 
+    width: 100%;
+	font-family: S_Font;
+	padding: 5px;
+    list-style: none;
+    position: fixed;
+
+}
+
+button{
+	
+	top:50%;
+	left: 50%
+	transform:translate(-50%,-50%);
+}
+
+button{
+	background: none;
+	color:#403F37;
+	font-family: S_Font;
+	width: 120px;
+	height: 60px;
+	border:1px solid #1A1918;
+	font-size: 18px;
+	border-radius: 4px;
+	transition: .6s;
+	overflow: hidden;
+}
+button:hover{
+	color:green;
+}

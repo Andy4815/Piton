@@ -1,0 +1,2 @@
+#403F37-Gri (scris)
+rgba(239,225,172,0.7)-galben(transparent)
