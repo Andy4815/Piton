@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>cheburek</title>
+	<link rel="stylesheet" type="text/css" href="css/pagina.css">
+	 <link rel = "icon" href="snek.png" type = "image/x-icon">
+</head>
+<body>
+	<div class="bg">
+  <div class="titlu">
+  	<h1>Cheburek</h1>
+  </div>
+  
+  <div class="Ingrediente">
+    <ul>
+    	<li>Aluat:</li>
+  		<li>un ou</li>
+  		<li>3 cani de faina</li>
+  		<li>1 lingura de zahar</li>
+  		<li>1 lingurita de sare</li>
+  		<li>1 cana cu apa</li>
+  		<li>ulei de floarea soarelui</li>
+  	</ul>
+
+  	
+  </div>
+  <div class="also">
+  	<h2>Also</h2>
+  	<ul>
+  		<li>2 boluri</li>
+  		<li>facatel</li>
+  		<li>tigaie</li>
+  		<li>prosoape</li>
+  		<li>1 litru de ulei</li>
+
+  	</ul>
+  </div>
+
+  <div class="centru">
+  	<ul>
+  		<li>Umplutura:</li>
+  		<li>400gr carte tocata</li>
+  		<li>doua cepe mici</li>
+  		<li>1 catel de usturoi</li>
+  		<li>ceapa verde</li>
+  		<li>partunjel</li>
+  		<li>3 lingurite de sare</li>
+  		<li>1 lingurita de piper</li>
+  	</ul>
+  </div>
+  <div class="buton">
+  	<a href="start.html"><button type="button" class="buton1">Inapoi</button></a>
+  	<a href="pagina2.html"><button type="button" class="buton2">inainte</button></a>
+  </div>
+  <img src="dificultate-babushka.png">
+  
+</div>
+</body>
+</html>
