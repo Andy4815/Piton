@@ -36,7 +36,7 @@ left margin is 100px
   left: 16px;
   font-size: 34px;
 }
-.bg{
+html, .bg{
 	background-image: url("cheburek.jpg");
 	height: 100%;
 	background-position: center;
